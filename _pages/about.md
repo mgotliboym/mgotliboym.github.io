@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 I'm a second-year mathematics graduate student at Michigan State University.
+
+This page is a work in progress!
 <!-- TODO -->
 
 <!--
