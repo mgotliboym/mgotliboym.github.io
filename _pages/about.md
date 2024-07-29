@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year mathematics graduate student at Michigan State University.
+I'm a fourth-year mathematics graduate student at Michigan State University.
+
+Research interests: Homotopy theory, equivariant stable homotopy theory, \\(\infty\\)-categories, and algebraic K-theory with a focus on trace methods.
+
+I'm also an avid sci-fi reader and hiker, nothing feeds my creativity like a day in the mountains.
 
 This page is a work in progress!
 <!-- TODO -->
