@@ -44,7 +44,7 @@
 
        {% if post.collection == 'teaching' -%}
           {% if post.donotlink -%}
-             <p> {{- title -}},
+             <p> {{- title -}},&#20; <!-- that's just a space to force it after the comma -->
                {%- if post.type -%}
                  {{ post.type -}},
                {%- endif -%}
