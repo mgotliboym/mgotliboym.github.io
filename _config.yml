@@ -21,7 +21,7 @@ baseurl                  : "/marc.gotliboym" # the subpath of your site, e.g. "/
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "work_in_progress.jpg"
+  avatar           : "tempBioPhoto.jpg"
   name             : "Marc Gotliboym"
   pronouns         : # example: "she/her"
   bio              : #"Short biography for the left-hand sidebar"
