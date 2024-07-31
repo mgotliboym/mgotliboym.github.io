@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year mathematics graduate student at Michigan State University.
+I'm a fourth-year mathematics graduate student at Michigan State University working with Professor Teena Gerhardt.
 
 Research interests: Homotopy theory, equivariant stable homotopy theory, \\(\infty\\)-categories, and algebraic K-theory with a focus on trace methods.
 
