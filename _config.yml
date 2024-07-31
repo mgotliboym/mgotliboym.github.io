@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Marc Gotliboym"
 title_separator          : "-"
 name                     : &name "Marc Gotliboym"
-description              : &description "personal description"
+description              : &description "Marc's academic webpage"
 url                      : "https://mgotliboym.github.io"
 baseurl                  : "/marc.gotliboym" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -21,7 +21,7 @@ baseurl                  : "/marc.gotliboym" # the subpath of your site, e.g. "/
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "work-in-progress.png"
+  avatar           : "work_in_progress.jpg"
   name             : "Marc Gotliboym"
   pronouns         : # example: "she/her"
   bio              : #"Short biography for the left-hand sidebar"
