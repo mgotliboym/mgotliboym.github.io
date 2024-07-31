@@ -4,18 +4,10 @@ collection: teaching
 [//]: #(type: "Undergraduate course")
 [//]: #(permalink: /teaching/2014-spring-teaching-1)
 venue: "Michigan State University"
-date: Summer 2022
+approxdate: "Summer 2022"
+donotlink: t
+[//]: #(date: "" #put in date, shows only year )
 [//]: #(location: "City, Country")
 ---
 
-<!--
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
+[//]: #( can put description here with markdown formatting )
