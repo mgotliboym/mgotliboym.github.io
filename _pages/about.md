@@ -14,7 +14,6 @@ Research interests: Homotopy theory, equivariant stable homotopy theory, \\(\inf
 
 I'm also an avid sci-fi reader and hiker, nothing feeds my creativity like a day in the mountains.
 
-This page is a work in progress!
 <!-- TODO -->
 
 <!--
