@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
   - /marc.gotliboym/
-  - /marc.gotliboym.html
 ---
 
 I'm a fourth-year mathematics graduate student at Michigan State University working with Professor Teena Gerhardt.
