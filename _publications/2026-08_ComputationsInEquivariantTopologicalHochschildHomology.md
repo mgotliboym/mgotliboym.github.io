@@ -3,7 +3,7 @@ title: "Computations In Equivariant Topological Hochschild Homology"
 collection: research
 permalink: /research/2026-08-ComputationsInEquivariantTopologicalHochschildHomology
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026
+date: 2026-08-11
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
