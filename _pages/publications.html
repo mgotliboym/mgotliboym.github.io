@@ -22,7 +22,9 @@ author_profile: true
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
+        <ol> <!-- Start a list for this category -->
       {% endunless %}
+        <li style="margin-bottom: 1em;">
         {{ post.title }}.
         {% if post.coauthors %}with {{ post.coauthors }}. {% endif %}
         {% if post.venue %}{{ post.venue }} {% endif %}
@@ -33,8 +35,9 @@ author_profile: true
           {% if post.submitted %}<a href="{{ post.paperurl }}">arxiv</a>
           {% else %}<a href="{{ post.paperurl }}">url</a>{% endif %}
         {% endif %}
-        <!-- {% include archive-single.html %} -->
+        </li>
     {% endfor %}
+    </ol>
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
