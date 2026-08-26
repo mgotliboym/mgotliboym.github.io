@@ -1,6 +1,7 @@
 ---
 title: "Computations In Equivariant Topological Hochschild Homology"
-collection: preprints
+collection: publications
+category: preprints
 permalink: /research/2026-08-ComputationsInEquivariantTopologicalHochschildHomology
 excerpt: ''
 date: 2026-08-11
