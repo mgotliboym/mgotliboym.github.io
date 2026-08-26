@@ -30,14 +30,16 @@ author_profile: true
         {% if post.venue %}{{ post.venue }} {% endif %}
         {% if post.submitted %} Submitted {% endif %}
         {% if post.preparation %} In Preparation {% endif %}
-        ({{ post.date | date: "%Y" }}).
+        {% unless post.preparation %}({{ post.date | date: "%Y" }}).{% endunless %}
         {% if post.paperurl %}
           {% if post.submitted %}<a href="{{ post.paperurl }}">arxiv</a>
           {% else %}<a href="{{ post.paperurl }}">url</a>{% endif %}
         {% endif %}
         </li>
     {% endfor %}
-    </ol>
+    {% if title_shown %}
+      </ol>
+    {% endif %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
