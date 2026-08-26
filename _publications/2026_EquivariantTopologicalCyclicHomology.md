@@ -3,7 +3,7 @@ title: "Equivariant Topological Cyclic Homology"
 collection: publications
 category: progress
 permalink: /research/EquivariantTopologicalCyclicHomology
-date:
+date: 2026-08-26
 venue:
 preparation: 'preparation'
 slidesurl:
