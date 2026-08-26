@@ -23,7 +23,16 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+        {{ post.title }}.
+        {% if post.coauthors %}with {{ post.coauthors }}. {% endif %}
+        {% if post.venue %}{{ post.venue }} {% endif %}
+        {% if post.submitted %} Submitted {% endif %}
+        {% if post.preparation %} In Preparation {% endif %}
+        ({{ post.date | date: "%Y" }}).
+        {% if post.paperurl %}
+          {% if post.submitted %}<a href="{{ post.paperurl }}">arxiv</a>
+          {% else %}<a href="{{ post.paperurl }}">url</a>{% endif %}
+        <!-- {% include archive-single.html %} -->
     {% endfor %}
   {% endfor %}
 {% else %}

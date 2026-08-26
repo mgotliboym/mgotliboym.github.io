@@ -87,8 +87,10 @@ publication_category:
   #  title: 'Books'
   preprints:
     title: 'Preprints'
+    output: false # prevents each article from being its own web page maybe
   progress:
     title: 'Works in Progress'
+    output: false
   #publications:
   #  title: 'Publications'
 

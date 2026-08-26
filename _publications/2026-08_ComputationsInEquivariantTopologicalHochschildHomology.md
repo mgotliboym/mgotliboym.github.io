@@ -3,12 +3,12 @@ title: "Computations In Equivariant Topological Hochschild Homology"
 collection: publications
 category: preprints
 permalink: /research/2026-08-ComputationsInEquivariantTopologicalHochschildHomology
-excerpt: ''
 date: 2026-08-11
-venue: 'arxiv'
-slidesurl: ''
+venue:
+submitted: 'submitted'
+slidesurl:
 paperurl: 'https://arxiv.org/abs/2608.11376'
-citation: ''
+coauthors: 'D. Chan, I. Klang, and N. Wisdom.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
