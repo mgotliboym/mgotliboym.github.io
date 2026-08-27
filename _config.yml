@@ -228,13 +228,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -247,9 +247,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      output: false
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -265,8 +266,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -274,8 +275,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -283,6 +284,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      output: false
       share: true
       comment: true
   # _talks
@@ -291,6 +293,7 @@ defaults:
       type: talks
     values:
       layout: talk
+      output: false
       author_profile: true
       share: true
 
