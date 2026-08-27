@@ -29,7 +29,7 @@ author_profile: true
         {% if post.coauthors %}with {{ post.coauthors }}. {% endif %}
         {% if post.venue %}{{ post.venue }} {% endif %}
         {% if post.submitted %} Submitted {% endif %}
-        {% if post.preparation %} In Preparation. {% endif %}
+        <!-- {% if post.preparation %} In Preparation. {% endif %} -->
         {% unless post.preparation %}({{ post.date | date: "%Y" }}).{% endunless %}
         {% if post.paperurl %}
           {% if post.submitted %}<a href="{{ post.paperurl }}">arxiv</a>
