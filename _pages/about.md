@@ -18,4 +18,4 @@ I am on the academic job market for the 2026--2027 hiring cycle.
 
 ***
 
-I'm also an avid sci-fi reader and hiker, nothing feeds my creativity like a day in the mountains.
+I'm also an avid sci-fi reader and hiker. Nothing feeds my creativity like a day in the mountains!
